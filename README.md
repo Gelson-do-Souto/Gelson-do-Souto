@@ -18,8 +18,8 @@
   <a href="https://gelson-do-souto-portifolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:gelson.souto@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-00416A?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://instagram.com/gelson_do_souto" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
@@ -27,7 +27,7 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%" valign="top">
       <h2>🚀 Sobre Mim</h2>
       <p>
         Desenvolvedor Full Stack focado em automação de processos e experiência do usuário. 
@@ -40,7 +40,7 @@
         📫 <b>Localização:</b> Talatona, Luanda - Angola.
       </p>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="45%" valign="top" align="center">
       <h2>🛠️ Tech Arsenal</h2>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=python,dart,flutter,js,postgres,docker,git,github,vscode,linux,bash,cpp&perline=4&theme=dark" />
@@ -54,17 +54,9 @@
 <h2>📊 Estatísticas de Desenvolvedor</h2>
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gelson-do-Souto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=00B4D8&title_color=00B4D8&text_color=FFFFFF&bg_color=0d1117" />
-      </td>
-      <td width="50%" align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gelson-do-Souto&layout=compact&theme=dark&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&bg_color=0d1117&langs_count=6" />
-      </td>
-    </tr>
-  </table>
-  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gelson-do-Souto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=00B4D8&title_color=00B4D8&text_color=FFFFFF&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gelson-do-Souto&layout=compact&theme=dark&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&bg_color=0d1117&langs_count=6" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gelson-do-Souto&theme=dark&hide_border=true&stroke=00B4D8&background=0d1117&ring=00B4D8&sideNums=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak" />
 </div>
 
@@ -72,7 +64,7 @@
 
 <h2>🐍 Activity Map</h2>
 <div align="center">
-  <img src="https://github.com/Gelson-do-Souto/Gelson-do-Souto/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Gelson-do-Souto/Gelson-do-Souto/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 <div align="center">
